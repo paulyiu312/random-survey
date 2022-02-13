@@ -8,7 +8,6 @@
 
 
 const urls = [
-	'https://html-online.com/editor/',
-	'https://www.youtube.com/watch?v=q76bMs-NwRk&t=8s&ab_channel=TheRelaxedGuy',
-	'https://blackboard.cuhk.edu.hk/ultra/stream'
+	'https://docs.google.com/forms/d/1f-p3BovrJh3hyLzyeEfS7qVBt8uB-ax7TRAixj6WScI/edit',
+	'https://docs.google.com/forms/d/1f-p3BovrJh3hyLzyeEfS7qVBt8uB-ax7TRAixj6WScI/edit'
 ];
