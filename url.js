@@ -9,5 +9,6 @@
 
 const urls = [
 	'https://docs.google.com/forms/d/1f-p3BovrJh3hyLzyeEfS7qVBt8uB-ax7TRAixj6WScI/edit',
-	'https://docs.google.com/forms/d/1f-p3BovrJh3hyLzyeEfS7qVBt8uB-ax7TRAixj6WScI/edit'
+	'https://docs.google.com/forms/d/11SvT4teZ4jHGF75jH5qOOf9vUtQtLwbhVgOzSRW3Ycg/viewform?edit_requested=true'
+	'https://www.thisav.com/'
 ];
