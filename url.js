@@ -10,5 +10,5 @@
 const urls = [
 	'https://html-online.com/editor/',
 	'https://www.youtube.com/watch?v=q76bMs-NwRk&t=8s&ab_channel=TheRelaxedGuy',
-	'www.youtube.com'
+	'https://blackboard.cuhk.edu.hk/ultra/stream'
 ];
